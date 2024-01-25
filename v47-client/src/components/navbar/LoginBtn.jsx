@@ -23,6 +23,7 @@ const LoginBtn = () => {
         className=" "
       >
         <Signup/>
+        .
       </button>
       {/* if logined this will be shown. need to add conditinal rendering */}
 
